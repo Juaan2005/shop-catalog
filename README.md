@@ -64,7 +64,7 @@ ShopCatalog adalah aplikasi mobile yang menampilkan katalog produk dari **FakeSt
 
 | Loading | Success | Error |
 |---------|---------|-------|
-| ![loading](assets/loading.jpeg) | ![success](assets/succes.jpeg) | ![error](assets/error.jpeg) |
+| ![loading](assets/loading.jpeg) | ![succes](assets/succes.jpeg) | ![error](assets/error.jpeg) |
 
 ---
 
